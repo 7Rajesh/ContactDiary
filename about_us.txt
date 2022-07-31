@@ -16,18 +16,19 @@ which helps us to check the inputs and work accordingly
 -->Credits : This Program is Design by team "Binary beats" 
 
 Members
---->Satvik shrivastav
---->Naman Gupta
---->Rajesh Meena
+--->Rajesh 
+--->Naman 
+--->Satvik
 
-*main file ==> code = all
-	       commenting the code and made easy to understand = Rajesh
+this includes:-
 
-*Functions ==> add_contact = satvik
-	      delete_contact = naman
-	      search_contact = satvik
-	      edit_satvik = naman
-	      about_us = rajesh
+*main file 
+
+*Functions ==> add_contact
+	      delete_contact 
+	      search_contact 
+	      edit_contact 
+	      about_us 
 
 We all worked hard hard and hope this program helps you in handilng contacts
 
